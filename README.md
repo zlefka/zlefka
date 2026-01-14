@@ -1,8 +1,8 @@
 ## Hi there 👋 Привет
 
-Меня зовут Лера, я - Junior Dev 💻
+Меня зовут Лера 💻
 
 - 🔭 На данный момент пишу пет-проекты и наполняю портфолио интересными проектами.
-- 🌱 Занимаюсь углубленным изучением Android разработки.
+- 🌱 Занимаюсь углубленным изучением Android разработки на Kotlin.
 - 👯 Буду рада сотрудничеству.
  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/zlefka9)
