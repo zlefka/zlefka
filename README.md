@@ -2,10 +2,11 @@
 
 Меня зовут Лера 💻
 
-- 🌱 Занимаюсь углубленным изучением Android разработки на Kotlin.
+- 🌱 Android разработчик на Kotlin.
 - 👯 Буду рада сотрудничеству.
  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/zlefka9)
 
+## 🛠️:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
